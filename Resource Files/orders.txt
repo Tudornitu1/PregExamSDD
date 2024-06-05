@@ -1,0 +1,10 @@
+5, 45, 77, Iorgulescu Andrei, 74.2
+8, 30, 83, Vrancea Paul, 160.3
+1, 60, 77, Iorgulescu Andrei, 150.3
+7, 50, 56, Rotaru Simon, 130.2
+2, 35, 15, Mihai Ion, 60.2
+6, 40, 44, Popescu Marius, 99.1
+9, 25, 15, Mihai Ion, 66.2
+3, 20, 44, Popescu Marius, 20.3
+4, 35, 44, Popescu Marius, 70.4
+10, 15, 75, Bobescu Vasile, 91.2

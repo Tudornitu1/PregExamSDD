@@ -1,0 +1,7 @@
+1, Tudor, 10.0
+2, David, 9.5
+3, Alex, 8.0
+4, Alin, 9.0
+5, Radu, 6.0
+6, Maria, 7.5
+7, Maia, 9.0
